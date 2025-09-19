@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana",
+    "data_ferias": "2025-09-23",
+    "email": "ana@emailficticio.com"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos",
+    "data_ferias": "2025-10-01",
+    "email": "carlos@emailficticio.com"
+  },
+  {
+    "id": 3,
+    "nome": "Beatriz",
+    "data_ferias": "2025-09-25",
+    "email": "beatriz@emailficticio.com"
+  },
+  {
+    "id": 4,
+    "nome": "Lenine",
+    "data_ferias": "2025-11-20",
+    "email": "lenine@emailficticio.com"
+  }
+]
