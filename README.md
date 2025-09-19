@@ -388,4 +388,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-⭐ **Desenvolvido com foco em qualidade, modularidade e boas práticas de programação!**
+⭐ **Desenvolvido com foco em qualidade, modularidade e boas práticas de programação!!**
+
